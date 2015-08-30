@@ -2,9 +2,9 @@
 title: Viper
 email: androssdragonq.9@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Project blog
+  Blog for my projects
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://diezcami.github.io" # the base hostname & protocol for your site
+url: "http://mimerme.github.io" # the base hostname & protocol for your site
 github_username: Mimerme
 
 # Build settings
