@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
+*Viper* is a blog I maintain to keep up to date with my projects for others who express
+interest in these fields. The blog is powered by Github Pages and Jekyll and uses
+the *Arctic Fox* theme.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+* Author: Andros (Mimerme) Yang
+* Github: http://github.com/mimerme
+* Portfolio: http://mimerme.github.io
