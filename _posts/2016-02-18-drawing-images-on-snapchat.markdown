@@ -1,5 +1,5 @@
 ---
-title: "Snart - Automated drawing of Snapchat snapsterpieces"
+title: "Automated drawing of Snapchat snapsterpieces"
 date:   2016-02-18 7:16:00
 description: A talk about the tech behind Snart
 layout: post
